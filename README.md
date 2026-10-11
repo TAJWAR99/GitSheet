@@ -206,9 +206,5 @@ Google Sheets offers APIs that allow programmatic access to spreadsheets. You ca
 
 6.  Place the File in the Correct Directory.
      Save the credentials.json file in your project folder or a directory accessible by your script.
-  
-## 📄 License
-
-MIT License © 2025 Tajwar
 
 
